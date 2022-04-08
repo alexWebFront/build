@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60d865fa.css",
+    "main.js": "/static/js/main.e892d6d2.js",
+    "static/js/787.eaaab13d.chunk.js": "/static/js/787.eaaab13d.chunk.js",
+    "static/media/avatar.jpg": "/static/media/avatar.94e0cc20aaf3e5dcb6cf.jpg",
+    "static/media/picom-logo-header.svg": "/static/media/picom-logo-header.c63f7c6188e38d1ca0172748ad96cb12.svg",
+    "index.html": "/index.html",
+    "main.60d865fa.css.map": "/static/css/main.60d865fa.css.map",
+    "main.e892d6d2.js.map": "/static/js/main.e892d6d2.js.map",
+    "787.eaaab13d.chunk.js.map": "/static/js/787.eaaab13d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60d865fa.css",
+    "static/js/main.e892d6d2.js"
+  ]
+}
